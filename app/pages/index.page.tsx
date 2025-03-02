@@ -40,8 +40,7 @@ export default function Page() {
         <a target="_blank" href="https://github.com/jonathanhefner/twofold-remote-components/blob/main/app/components/PassingChildren.tsx">client <code>.tsx</code></a>{" | "}
         <a target="_blank" href="https://github.com/jonathanhefner/twofold-remote-components/blob/main/app/components/PassingChildren.server.tsx">server <code>.tsx</code></a>
       </p>
-      {/* <div className="demo"><PassingChildren /></div> */}
-      <div className="demo"><strong><em>TEMPORARILY DISABLED</em></strong></div>
+      <div className="demo"><PassingChildren /></div>
     </section>
 
     <section className="waterfall">
