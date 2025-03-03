@@ -1,0 +1,4 @@
+{
+  "name": "Twofold Remote Components",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22"
+}
